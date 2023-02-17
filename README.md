@@ -59,7 +59,7 @@
 
 <h2 id="usage">Usage</h2>
 To use the Plant Moisture and Temperature Monitor, simply connect the capacitive touch sensor, temperature sensor, and LCD screen to your Arduino board using the jumper wires.
-
+<br>
 Once everything is connected, you can power on your Arduino board and the LCD screen will display the temperature and moisture level of the plant.
 
 <h2 id="code-overview">Code Overview</h2>
