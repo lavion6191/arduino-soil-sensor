@@ -63,7 +63,7 @@ To use the Plant Moisture and Temperature Monitor, simply connect the capacitive
 Once everything is connected, you can power on your Arduino board and the LCD screen will display the temperature and moisture level of the plant.
 
 <h2 id="code-overview">Code Overview</h2>
-The code for this project is written in C++ and is designed to run on an Arduino UNO board. The code is divided into two main functions: setup() and loop().
+The code for this project is written in <a href="https://www.w3schools.com/cpp/#:~:text=C%2B%2B%20is%20a%20popular%20programming,used%20language%20in%20game%20development.">C++</a> and is designed to run on an Arduino UNO board. The code is divided into two main functions: setup() and loop().
 
 <h2 id="setup">Setup</h2>
 The setup() function is called once when the Arduino board is powered on. It initializes the LCD screen and the capacitive touch sensor, and prints a message on the LCD screen to indicate that the system is initializing. If there are any errors during initialization, the function will print an error message to the serial monitor and loop indefinitely.
