@@ -75,7 +75,7 @@ The loop() function is called continuously while the Arduino board is powered on
 You can customize this project by adjusting the habitable temperature and moisture ranges in the code. You can also adjust the delays for displaying information on the LCD screen, and change the status messages for different moisture levels.
 
 <h2 id="license">License</h2>
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the <a href="https://github.com/lavion6191/arduino-soil-sensor/blob/main/LICENSE.md">MIT License</a> - see the <a href="https://github.com/lavion6191/arduino-soil-sensor/blob/main/LICENSE.md">LICENSE</a> file for details.
 
 <h2 id="acknowledgements">Acknowledgments</h2>
 <p>
