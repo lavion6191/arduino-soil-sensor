@@ -84,7 +84,7 @@ This project is licensed under the <a href="https://github.com/lavion6191/arduin
 </p>
 <p>
   We would also like to thank our classmates in class TE21, who provided us with valuable feedback and support throughout the project. 
-  In particular, we would like to thank the members of our group who worked tirelessly to develop and test the sensor.
+  In particular, we would like to thank the members of our group who worked tirelessly to test the sensor, setup the jumpers, and writing our presentation and documents.
 </p>
 <p>
 Finally, we would like to express our appreciation to the gymnasium NTI Sollentuna for providing us with the resources and facilities necessary to complete this project. 
